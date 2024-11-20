@@ -2,11 +2,6 @@
 
 This repository contains the implementations for the algorithms presented in our paper "[Abstractive Summarizers are Excellent Extractive Summarizers](https://aclanthology.org/2023.acl-short.29/)" published at ACL 2023.
 
-## Todo
-- [x] Add example code to readme
-- [ ] Document different inference algorithms
-- [ ] Add link to reproduced abstractive summarizer (BRIO)
-- [ ] Add detailed experiment script
 
 ## Example Code
 
